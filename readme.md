@@ -272,7 +272,7 @@ The project uses two ecological datasets:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bird-biodiversity-dashboard.git
+git clone https://github.com/Ayushdash02/bird-biodiversity-intellience-dashboard.git
 ```
 
 ---
