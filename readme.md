@@ -124,73 +124,73 @@ This project demonstrates how **data analytics and visualization** can support e
 
 ## 🔥 Activity Heatmap
 
-![Activity Heatmap](Preview/activity-heatmap.png)
+![Activity Heatmap](Preview/activity-heatmap.jpg)
 
 ---
 
 ## 📍 Bird Observation Locations
 
-![Bird Observation Locations](Preview/bird-observation-locations.png)
+![Bird Observation Locations](Preview/bird-observation-locations.jpg)
 
 ---
 
 ## 🌡 Environmental Correlation
 
-![Environmental Correlation](Preview/environmental-correlation.png)
+![Environmental Correlation](Preview/environmental-correlation.jpg)
 
 ---
 
 ## 🌿 Habitat vs Location Type
 
-![Habitat vs Location](Preview/habitat-vs-location.png)
+![Habitat vs Location](Preview/habitat-vs-location.jpg)
 
 ---
 
 ## 🌡 Temperature Impact Analysis
 
-![Temperature Impact](Preview/temperature-impact.png)
+![Temperature Impact](Preview/temperature-impact.jpg)
 
 ---
 
 ## 📈 Monthly Bird Activity Trend
 
-![Monthly Activity](Preview/monthly-bird-activity.png)
+![Monthly Activity](Preview/monthly-bird-activity.jpg)
 
 ---
 
 ## 🏞 Park-Level Activity
 
-![Park Activity](Preview/park-level-activity.png)
+![Park Activity](Preview/park-level-activity.jpg)
 
 ---
 
 ## 🌍 Spatial Biodiversity Insights
 
-![Spatial Biodiversity](Preview/spatial-biodiversity-insights.png)
+![Spatial Biodiversity](Preview/spatial-biodiversity-insights.jpg)
 
 ---
 
 ## 🐦 Species Contribution
 
-![Species Contribution](Preview/species-contribution.png)
+![Species Contribution](Preview/species-contribution.jpg)
 
 ---
 
 ## 🌿 Species Distribution Across Habitats
 
-![Species Habitat Distribution](Preview/species-habitat-distribution.png)
+![Species Habitat Distribution](Preview/species-habitat-distribution.jpg)
 
 ---
 
 ## 🥇 Top 10 Most Observed Bird Species
 
-![Top Species](Preview/top-species.png)
+![Top Species](Preview/top-species.jpg)
 
 ---
 
 ## 🏆 Top Parks by Bird Activity
 
-![Top Parks](Preview/top-parks.png)
+![Top Parks](Preview/top-parks.jpg)
 
 ---
 
